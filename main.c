@@ -2,5 +2,5 @@
 
 int main(void)
 {
-	printf("Hello world!");
+	printf("This challenge is very cool even if I'm too late to success it!");
 }
